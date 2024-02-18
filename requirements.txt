@@ -1,0 +1,12 @@
+preamble
+matplotlib
+pandas
+numpy
+scikit-learn
+scipy
+mglearn
+jupyter
+Pyarrow
+IPython
+pandoc
+nbconvert
