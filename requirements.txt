@@ -10,3 +10,4 @@ Pyarrow
 IPython
 pandoc
 nbconvert
+seaborn
